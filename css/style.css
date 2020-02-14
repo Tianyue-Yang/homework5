@@ -223,7 +223,7 @@ header{
     align-items: flex-start;
   }
 
-  .galley, #gallery{
+  .gallery, #gallery{
     display: none;
   }
 
